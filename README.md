@@ -1,2 +1,3 @@
-# comaPractice
-Practice repo
+# Javascript Practice Repository
+
+
